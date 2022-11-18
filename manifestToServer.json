@@ -2,8 +2,8 @@
 	"ManifestVersion": 3,
 	"Servers": {
 		"Official": [{
-			"Address": "185.97.254.125",
-			"Port": 21120,
+			"Address": "136.243.141.246",
+			"Port": 28015,
 			"Tags": ""
 		}],
 		"Banned": [
