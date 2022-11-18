@@ -1,0 +1,34 @@
+{
+  "ServerList": [
+    {
+      "HostName": "TRINITY RUST TRIO [ X2 | MAX3 ]",
+      "Ip": "62.122.214.181",
+      "GamePort": 8888,
+      "Map": "Barren",
+      "Players": "45",
+      "Sleepers": "19",
+      "Joining": "2",
+      "MaxPlayers": 100,
+      "Description": "Welcome to the server TrinityRust TRIO\\n\\nX2 - Skins - Top - Trade - AutoDoor - AutoGrades - Clans - FF - Friends - FurnaceSorter - Kits - Map - InstaCraft - TP - Home - PM - QuickSmelt - Repair - SignArtist - Remove - BigStacks - PvP - AIR\\n\\nVK: vk.com/trprust\\nShop: trinityrust.ru",
+      "Url": "https://vk.com/trprust",
+      "Image": "https://i.postimg.cc/mgMhHPrP/tirpoject-512-256.jpg",
+      "Version": "2062",
+      "Category": "Official"
+    },
+    {
+      "HostName": "TRINITY RUST TRIO [ X2 | MAX3 ]",
+      "Ip": "62.122.214.181",
+      "GamePort": 8888,
+      "Map": "Barren",
+      "Players": "45",
+      "Sleepers": "19",
+      "Joining": "2",
+      "MaxPlayers": 100,
+      "Description": "Welcome to the server TrinityRust TRIO\\n\\nX2 - Skins - Top - Trade - AutoDoor - AutoGrades - Clans - FF - Friends - FurnaceSorter - Kits - Map - InstaCraft - TP - Home - PM - QuickSmelt - Repair - SignArtist - Remove - BigStacks - PvP - AIR\\n\\nVK: vk.com/trprust\\nShop: trinityrust.ru",
+      "Url": "https://vk.com/trprust",
+      "Image": "https://i.postimg.cc/mgMhHPrP/tirpoject-512-256.jpg",
+      "Version": "2062",
+      "Category": "Community"
+    }
+  ]
+}
